@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+
+}
+.header_div{
+    background: blue;
+    color: white;
+
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px darkcyan;
+} 
+.main_div label{
+    background-color: honeydew;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera,#result{
+    border:2px solid greenyellow;
+    width: 280px;
+    height: 300px;
+    box-shadow: 5px 5px 18px yellowgreen;
+}
+.main_div button{
+    width: 300px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px blanchedalmond;
+    border: 2px solid greenyellow;
+    color: red;
+}
+.footer_div{
+    margin-bottom: 50px;
+    }
+    .footer_div h5{
+        background: green;
+        border-radius: 10px;
+        padding: 5px;
+        box-shadow: 5px 5px 18px blanchedalmond;
+
+    }
+    .footer_div img{
+        width:70px;
+    }
+    .copy_right_footer{
+        position: fixed;
+        color: red;
+        width: 100px;
+        background-color: blue;
+        line-height: 5;
+        text-align: center;
+    }
+
+    
+
+    
